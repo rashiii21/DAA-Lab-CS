@@ -18,9 +18,13 @@
 <br><br>
 
 **Student Name:** Rashi Shrivastava
+
+
 **Enrollment Number:** 240085
 
 <br>
+
+
 
 **Faculty Name:** Dr. P. K. Bishnoi
 
@@ -35,8 +39,6 @@ Lakshmangarh, Rajasthan
 ---
 
 <div style="page-break-after: always;"></div>
-
-# INDEX
 
 # INDEX
 
